@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+	<comment>English (en_US) Localization File</comment>
+	<entry key="tile.oreE99.name">E99 Ore</entry>
+	<entry key="tile.oreLead.name">Lead Ore</entry>
+	<entry key="tile.oreDepUranium.name">Depleted Uranium Ore</entry>
+	<entry key="tile.oreCopper.name">Copper Ore</entry>
+	<entry key="tile.oreLegacy.name">Legacy Ore</entry>
+	<entry key="tile.blockLegacy.name">Block of Legacy</entry>
+	<entry key="tile.blockLead.name">Lead Block</entry>
+	<entry key="tile.blockCopper.name">Copper Block</entry>
+	<entry key="tile.blockDepUran.name">Depleted Uranium Block</entry>
+	<entry key="tile.chestLegacy.name">Legacy Chest (WIP)</entry>
+	<entry key="tile.mechTable.name">Mechine Table (WIP)</entry>
+	<entry key="tile.minersAlter.name">Miner's Alter (WIP)</entry>
+	<entry key="item.PimpCane.name">Pimp Cane</entry>
+	<entry key="item.PimpCane2.name">Pimp Cane The 2nd</entry>
+	<entry key="item.DepUranPickaxe.name">Depleted Uranium Pickaxe</entry>
+	<entry key="item.DepUranAxe.name">Depleted Uranium Axe</entry>
+	<entry key="item.DepUranHoe.name">Depleted Uranium Hoe</entry>
+	<entry key="item.DepUranSpade.name">Depleted Uranium Shovel</entry>
+	<entry key="item.Legacy.name">Legacy</entry>
+	<entry key="item.LegacyRod.name">Legacy Rod</entry>
+	<entry key="item.LegacyCane.name">Fancy Cane</entry>
+	<entry key="item.ingotDepUran.name">Depleted Uranium Ingot</entry>
+	<entry key="item.ingotCopper.name">Copper Ingot</entry>
+	<entry key="item.ingotLead.name">Lead Ingot</entry>
+	<entry key="item.ItemIronRod.name">Iron Rod</entry>
+	<entry key="item.E99.name">E99</entry>
+	<entry key="itemGroup.OaGP">Ores and Gems +</entry>
+</properties>

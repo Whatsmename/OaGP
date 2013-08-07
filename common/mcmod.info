@@ -1,0 +1,20 @@
+[
+{
+  "modid": "OaGP",
+  "name": "Ores and Gems +",
+  "description": "Extra ores and other items",
+  "version": "0.6",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Whatsmename"
+  ],
+  "credits": "By Whatsmename",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
